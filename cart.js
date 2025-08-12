@@ -40,6 +40,13 @@ const shopdata=[
         desc:'this is the best  shirt',
         price:9800,
         img:"pics/pic06.jpg"
+    },
+    {
+        id:7,
+        name:'young shrirt',
+        desc:'T-Shirt',
+        price:9800,
+        img:"pics/pic06.jpg"
     }
 
 ];
